@@ -1,8 +1,8 @@
-# Supermarket Sales: Data Manipulation & Analytics Applications 🚀📊
+# Supermarket Sales: Data Manipulation & Analytics Applications 
 
 This repository serves as a practical, hands-on application of advanced data science methodologies learned during my comprehensive training. The primary focus of this project is to demonstrate mastery over core data pipelines, advanced structural data manipulation, and exploratory visualization.
 
-## 🧠 Core Competencies & Concepts Applied
+##  Core Competencies & Concepts Applied
 
 ### 1. Data Quality Assurance & Integrity Audits
 * **Structural Inspection**: Applied deep telemetry mapping to verify dimensions and schema constraints.
@@ -43,4 +43,16 @@ This repository serves as a practical, hands-on application of advanced data sci
 ├── docu/         # Certifications and secondary documentation
 ├── scripts/      # Core structured Jupyter Notebooks
 └── .gitignore    # Safe-keeping rules for temporary kernel checkpoints
+
 ```
+
+## 👤 About Me
+
+Hi there! I'm **Abdulkarim Khaled**, a dedicated and detail-oriented **Data Analyst**. I have a strong passion for transforming raw data into meaningful insights that drive smart business decisions. Through this repository, I showcase my practical skills in data manipulation, visualization, and analysis using Python.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+<br>
+<a href="https://www.linkedin.com/in/abdulkarem-bawazir-917117255" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+</a>
+
